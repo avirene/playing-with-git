@@ -1,0 +1,69 @@
+https://devhints.io/vim - VIM
+https://regexr.com/
+https://youtu.be/Bt4Q0nP9Igc - How to debug your code
+https://youtu.be/e4S8zfLdLgQ - How the Internet Works (client-server)
+http://www.ee.surrey.ac.uk/Teaching/Unix/ - Unix Tutorial for Beginners
+https://www.computervillage.org/articles/CommandLine.pdf - Command Line Crash Course
+https://www.codequizzes.com/
+http://gitimmersion.com/
+https://guides.github.com/
+https://jilles.me/badassify-your-terminal-and-shell/
+https://github.com/cmderdev/cmder
+https://www.octotree.io/
+https://github.com/ovity/octotree
+https://youtu.be/TQCr9RV7twk memory and storage
+https://youtu.be/F0Ri2TpRBBg memory
+https://www.mathsisfun.com/hexadecimals.html hexadecimals
+https://launchschool.com/books/ruby/read/flow_control
+https://pine.fm/LearnToProgram/chap_01.html
+https://stackoverflow.com/questions/3430280/how-does-object-id-assignment-work
+https://www.sublimetext.com/ text editor
+https://disqus.com/
+https://en.wikipedia.org/wiki/Abstract_syntax_tree
+https://manifesto.responsiblesoftware.org/
+https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en growth mindset
+https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/
+https://www.sitepoint.com/understanding-scope-in-ruby/
+Basic Tutorials
+•	Try Ruby - Very basic 15' interactive tutorial
+•	Ruby in 100 minutes - Learn the fundamental syntax you need to get started programming with Ruby
+•	Ruby in 20 minutes - Small Ruby tutorial
+More in-depth tutorials
+•	Ruby For Beginners - Very well-written and in-depth guide to Ruby for absolute beginners.
+•	Why’s (Poignant) Guide To Ruby - Probably the most bizarre and entertaining Ruby Tutorial out there.
+•	Ruby Koans - A challenging and interesting Ruby tutorial, that also teaches you about error messages and TDD.
+•	RubyLearning.com - Ruby Tutorial and Study Notes
+Reference
+•	Ruby Core Reference - API documentation for Ruby 2.3.1
+•	Ruby Standard Library Reference - Ruby 2.3.1 Standard Library Documentation
+•	OverAPI - Useful reference/cheatsheet of Ruby methods
+Ruby Practice
+You might find these websites useful: - Exercism.io - Ruby exercises with TDD. An awesome open-source project by Katrina Owen. - HackerRank - Codewars-style programming challenges. 
+Memorization Aids
+•	CodeQuizzes
+•	Ruby Basics, by Makers Academy, on Memrise
+Useful books
+•	The Well-Grounded Rubyist - David A. Black
+•	Practical Object-Oriented Design in Ruby - Sandi Metz
+•	Eloquent Ruby - Russ Olsen
+•	Design Patterns in Ruby - Russ Olsen
+•	Refactoring: Ruby Edition - Jay Fields, Shane Harvie, Martin Fowler, Kent Beck
+•	Refactoring in Ruby - William C. Rake, Kevin Rutherford
+https://www.ruby-toolbox.com/
+https://youtu.be/JhR9Ib1Ylb8 - Testing Ruby with RSpec
+https://www.youtube.com/watch?v=b0A6OKHtez4 Roman Numerals Kata
+
+https://github.com/matiassingers/awesome-readme
+https://www.diagram.codes/
+https://youtu.be/uqf4vG2L95Q
+https://tuple.app/pair-programming-guide
+https://www.integralist.co.uk/posts/clean-coder/
+https://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/
+https://www.ruby2d.com/
+https://www.poodr.com/
+https://gmoeck.github.io/2011/09/20/why-you-should-care-about-encapsulation.html
+http://www.betterspecs.org/
+https://thoughtbot.com/blog/testing-from-the-outsidein
+https://blog.makersacademy.com/forget-fat-models-its-time-for-skinny-controllers-and-skinny-models-a9b84ec481b7#.8vs2uzw1f
+https://thoughtbot.com/blog/skinny-controllers-skinny-models
+https://www.rubyguides.com/2018/10/parse-csv-ruby/
